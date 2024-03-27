@@ -45,3 +45,19 @@ There is also a table, including data bars for the revenue per customer. From th
 We use similar filters to find the top customer by revenue. The details include their full name, their personal revenue and the number of orders.
 
 Finally, we have a donut visual displaying the distribution of customers by country.
+
+## Creating an Executive Summary Page
+
+Here is the Executive Summary page for C-Suite executives can quickly get insights and check outcomes against key outcomes:
+
+![alt text](image-8.png)
+
+We have three key indicator cards on Total Revenue, Total Orders and Total Profit. From this we can see that the current total profit is a 1.28 million loss.
+
+We also have a Total Revenue Chart that shows the change in Revenue over the years.
+
+We also have key performance indicators on the previous quarterly Revenue, Profit and Orders. It shows the goals for Revenue, Profit and Orders and shows how far away the current values are from these goals.
+
+The pair of donut visuals display the Total Revenue broken down by Country and Store Type. This shows that the United Kingdom provides the highest proprtion of Revenue and local store type provides the highest revenue.
+
+Finally, we can see the total customers by product category. Clearly homeware is the best selling product category.
