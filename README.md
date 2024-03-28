@@ -91,10 +91,35 @@ That will open a slicer toolbar, where we can filter by Country and Product Cate
 
 ![alt text](image-15.png)
 
-This information will be reflected on the page:
+This information will be reflected on the page, for example the performance of food and drink in Germany:
 
 ![alt text](image-16.png)
 
 I assigned the back button to the slicer bar closed bookmark and I assigned the filter button to the slicer bar open bookmark:
 
 ![alt text](image-17.png)
+
+## Building the Stores Map Page
+
+
+Additionally, we have a stores drillthrough page, including the top 5 products table, total orders by category bar chart, two gauges for profit YTD vs the target profit compared to a 20% increase from a year ago, and we have the same metric for Revenue. We also have a card that shows the selection of category.
+
+![alt text](image-9.png)
+
+For the gauge visuals, I created and used the following Measures:
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+We have a stores map page that shows all the stores worldwide in a scrollable map where each store has a bubble size dependent on the profit ytd:
+
+![alt text](image-14.png)
+
+An added feature to the map was that scrolling over a specific store will give us the profit year-to-date for that specific store to allow regional managers to easily check the stores under their control. In the example we can see that the Greater London Profit Year to Date is £916.83:
+
+![alt text](image-20.png)
+
+I used a specific custom tooltip year-to-date page:
+
+![alt text](image-21.png)
