@@ -61,3 +61,40 @@ We also have key performance indicators on the previous quarterly Revenue, Profi
 The pair of donut visuals display the Total Revenue broken down by Country and Store Type. This shows that the United Kingdom provides the highest proprtion of Revenue and local store type provides the highest revenue.
 
 Finally, we can see the total customers by product category. Clearly homeware is the best selling product category.
+
+## Building a Product Detail Page
+
+The purpose of the page is to provide an indepth look at which products in the inventory are performing well, with the option to filer by product and region.
+
+Here is the Product Detail Page:
+
+![alt text](image-12.png)
+
+Here we have three gauge indicators showing how far away from the target Orders, Revenue and Profits for this quarter.
+
+From these indicators we can see that the comany is 12k orders away from reaching the target set out by the CEO.
+
+The Scatter graph indicated the sum of profit per item and sum of product quantity by description and category. The scatter graph is set up so that we can clearly see insights categories that contain high performing products and when hovering over the data point we can see the specific product name using the following:
+
+![alt text](image-11.png)
+
+
+The Area chart indicated the total revenue by year and category.
+
+The Table shows the top 10 performing products with information information on the Total Revenue, Total Customers, Total Orders and Total Profit.
+
+Aditionally, we have a filter button:
+
+![alt text](image-13.png)
+
+That will open a slicer toolbar, where we can filter by Country and Product Category:
+
+![alt text](image-15.png)
+
+This information will be reflected on the page:
+
+![alt text](image-16.png)
+
+I assigned the back button to the slicer bar closed bookmark and I assigned the filter button to the slicer bar open bookmark:
+
+![alt text](image-17.png)
