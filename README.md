@@ -123,3 +123,33 @@ An added feature to the map was that scrolling over a specific store will give u
 I used a specific custom tooltip year-to-date page:
 
 ![alt text](image-21.png)
+
+## Cross Filtering and Navigation
+
+At this step of the project, I managed the interactions between the visuals such that some visuals would affect others and some would not:
+
+![alt text](image-10.png)
+
+Additionally I created a navigation bar that changes colour when hovered over, using the hover over style button. The Navigation Side Bar allows user to navigate the different pages:
+
+![alt text](image-23.png)
+
+## Creating Metrics for Users Outside the Company using SQL
+
+Finally, I created a connection to the SQL server in VScode, then went on to write SQL queries to indicate check the table and Column Names:
+
+![alt text](image-22.png)
+
+Then I queried the data using SQL to ensure that data insights can be accessed by a broader audience. Here's an example of answering the question "How many staff are there in all of the UK stores?":
+
+![alt text](image-26.png)
+
+This SQL query outputted the following result:
+
+![alt text](image-27.png)
+
+This was saved in a csv file.
+
+## Summary
+
+I learnt a lot from this project. I was able to fully explore all of Power BI's key features. It gave me experience in bringing odd datasets that a company had lying around and extracted, transformed and loaded the data to bring clear actionable insights. I was able to develop my comfort in using Power BI for an edn-to-end project and look forward to applying these skills to further projects!
