@@ -152,4 +152,5 @@ This was saved in a csv file.
 
 ## Summary
 
-I learnt a lot from this project. I was able to fully explore all of Power BI's key features. It gave me experience in bringing odd datasets that a company had lying around and extracted, transformed and loaded the data to bring clear actionable insights. I was able to develop my comfort in using Power BI for an edn-to-end project and look forward to applying these skills to further projects!
+
+I learnt a lot from this project. I was able to fully explore all of Power BI's key features. It gave me experience in bringing odd datasets that a company had lying around and extracted, transformed and loaded the data to bring clear actionable insights. I was able to develop my comfort in using Power BI for an end-to-end project and look forward to applying these skills to further projects!
